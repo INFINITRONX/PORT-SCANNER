@@ -86,7 +86,7 @@ print("\033[0m")
 
 
 print("\033[33m")
-print("example÷× python fportscanner.py --ports 1-5000 https://google.com")
+print("example÷× python fportscanner.py --ports 1-5000 www.google.com")
 print("\033[0m")
 print("")
 # some colors
